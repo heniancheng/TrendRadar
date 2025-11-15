@@ -1,21 +1,12 @@
 DeepSeek
 梁文锋
 
-大疆
-DJI
-
 宇树
 王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
 
 谷歌
 google
 gemini
-deepmind
 
 chatgpt
 openai
@@ -26,6 +17,6 @@ Anthropic
 
 ai
 !gai
-人工智能
-自动驾驶
+
 科技
+人工智能
